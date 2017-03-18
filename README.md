@@ -1,5 +1,7 @@
 # Linguist
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AYCS/linguist.svg)](https://greenkeeper.io/)
+
 [issues]: https://github.com/github/linguist/issues
 [new-issue]: https://github.com/github/linguist/issues/new
 
